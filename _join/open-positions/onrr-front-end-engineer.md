@@ -76,7 +76,7 @@ The Innovation Design Team will manage the U.S. Extractive Industries Transparen
 - Use usability research, analytics, and other metrics to influence project planning, design, and development.
 
 
-**Objective #2: You will find and create tools and resources to help ONRR address their data management needs.** 
+**Key Objective #2: You will find and create tools and resources to help ONRR address their data management needs.** 
 - Acquire broad knowledge of the landscape of past and present data management challenges that exist within ONRR. 
 - Recommend existing data-management tools and resources based on ONRR’s unique needs.
 - Prototype tools and/or build data management infrastructure for ONRR
